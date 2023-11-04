@@ -1,4 +1,4 @@
-### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Vibha+Chandola+👋)](https://git.io/typing-svg)</h1>
+### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I+am+Lokesh+Singh)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
  <img src="https://www.google.com/search?q=Anime+man+working&client=firefox-b-d&sca_esv=579388602&tbm=isch&sxsrf=AM9HkKn-byfdSeirG4WdOhb2Q4pjVOgXnQ:1699079069957&source=lnms&sa=X&ved=2ahUKEwiwq6Pj2qmCAxUlyDgGHX7vDMwQ_AUoAXoECAEQAw&biw=1275&bih=577&dpr=1.07#imgrc=webZec4oHM_LeM" alt="">
 
